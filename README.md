@@ -307,6 +307,7 @@ wb engines && wb engines use claude-code   # 本机装了 Claude Code / Codex？
 | [部署](docs/部署.md) | 服务器 / Docker / 反代 |
 | [实现细节](docs/实现细节.md) | agent 主循环怎么转的 |
 | [UI 交互全景](docs/UI交互全景.md) | 每一处点击、拖拽、按键都在哪一行 |
+| [可视化全景](docs/可视化全景.md) | 图表、示意图、卡片图、终端里的图怎么画出来的 |
 | [路线图](docs/路线图.md) | 接下来做什么：无限画布、把企业方案里的工具搬回来 |
 | [变更记录](CHANGELOG.md) | 一句话一条，最新在上面 |
 | [参与贡献](CONTRIBUTING.md) | 项目结构、测试、提 PR |
